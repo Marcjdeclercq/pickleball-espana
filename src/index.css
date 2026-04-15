@@ -1,8 +1,9 @@
-import Mapa from './components/Mapa'
-import './index.css'
-
-function App() {
-  return <Mapa />
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-export default App
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
